@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Johann <mail@johann-hofmann.com>"]
 
 [dependencies]
+base64 = "~0.6.0"
+openssl = "0.9.23"
+hex = "0.3.1"
